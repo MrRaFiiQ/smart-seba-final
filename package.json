@@ -1,0 +1,16 @@
+{
+  "name": "smart-seba-final",
+  "version": "2.0.0",
+  "description": "Final Clone with Real OCR, Face Match & OTP Scraping",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "playwright": "^1.40.0",
+    "tesseract.js": "^5.0.3"
+  }
+}
